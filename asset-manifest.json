@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adit777/tes-todolist/static/css/main.5f361e03.chunk.css",
+    "main.js": "/adit777/tes-todolist/static/js/main.63e20a3b.chunk.js",
+    "main.js.map": "/adit777/tes-todolist/static/js/main.63e20a3b.chunk.js.map",
+    "runtime-main.js": "/adit777/tes-todolist/static/js/runtime-main.7bd7d76f.js",
+    "runtime-main.js.map": "/adit777/tes-todolist/static/js/runtime-main.7bd7d76f.js.map",
+    "static/js/2.32ef7ac1.chunk.js": "/adit777/tes-todolist/static/js/2.32ef7ac1.chunk.js",
+    "static/js/2.32ef7ac1.chunk.js.map": "/adit777/tes-todolist/static/js/2.32ef7ac1.chunk.js.map",
+    "index.html": "/adit777/tes-todolist/index.html",
+    "precache-manifest.085f584b50b31b033be5818272bed102.js": "/adit777/tes-todolist/precache-manifest.085f584b50b31b033be5818272bed102.js",
+    "service-worker.js": "/adit777/tes-todolist/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/adit777/tes-todolist/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.32ef7ac1.chunk.js.LICENSE.txt": "/adit777/tes-todolist/static/js/2.32ef7ac1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/adit777/tes-todolist/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bd7d76f.js",
+    "static/js/2.32ef7ac1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.63e20a3b.chunk.js"
+  ]
+}
